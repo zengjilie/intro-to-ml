@@ -1,0 +1,54 @@
+Problem Statement
+
+p2p car sharing
+
+Product
+* Are there any car-sharing applications on the market? (Market)
+* What kinds of car should we buy for sharing? (Car dealer)
+* How does the insurance work? If we bought a car, how many liabilities should the user take. (Car rental company, lawyer)
+* How sparse should we set up the car sharing spots? (AI)
+* How many cars should we put in one sharing point? (AI)
+* How to minimize the cost for relocating our resource of cars.(Finance and AI)
+
+User
+* Who are our main customers? (UR)
+* Where do they live? (UR)
+* How they commute to work? (UR)
+* How often do they need to use a car? (UR)
+* How much money are they willing to pay for this service?(UR)
+
+Marketing
+* What's the business model? Seems like it's b2c. (CEO)
+* How to design customer-oriented application. (Design)
+* How to manage cost and revenue? (AI)
+* How to set the right price for our services? (AI)
+* Need to do market research, competitive analysis, user interviews. (Market)
+* Gather all user feedback, make a value proposition. (PM)
+* A p2p car sharing application that allows you to go anywhere anytime without needing to buy a car, without save the money on buying a car, make commute like a breeze. (CEO)
+* Our revenue will mainly from users renting our cars.
+* How to let users know our product, we need to work with say, travel agency, google maps, or other companies?
+
+
+Learning
+* We need to build a monitoring system to see how users are using cars by tracking their locations. (Location tracking tools)
+* We need to collect data about when, what, where, how users use our app. Then we can make targeted user segmentation, predict the number of cars we needed, the types of car we need, and also the best price for our product. 
+
+Assumptions
+* users are likely to pay more money in high-traffic sharing spots, like shopping malls, popular sighting spots and metropolitans.
+* Our app will be popular among the travelers' community and college students who can't currently afford buying a car.
+* Our potential competitors are car rental companies and possibly startups like Uber.
+
+
+Success
+* Revenue
+* User feedback
+* Total user number
+* Daily active user
+* Monthly active user
+* Number of followers on social media
+
+Risks
+* Insurance Policy (Insurance company)
+* Drivers Safety (Safety code / Safety education)
+* Lawsuit (Lawyer, cooperate lawyer)
+* IP violation (Cooperate lawyer)
